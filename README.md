@@ -13,6 +13,8 @@ Business Type/Issued Licenses - https://data.cityofnewyork.us/Business/Legally-O
 
 Weather - https://www.ncdc.noaa.gov/cdo-web/datasets
 
+Each of our code notebooks are included within this github
+
 ## Contributing/Team Members
 Rahim Raja
 Divyansh Chamria
